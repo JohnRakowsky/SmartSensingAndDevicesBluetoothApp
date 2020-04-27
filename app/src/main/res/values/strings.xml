@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Distancing Checker</string>
+    <string name="scan">Scan Nearby</string>
+    <string name="tips">Read Health Tips</string>
+    <string name="title_activity_health_tips">HealthTipsActivity</string>
+    <string name="back">Go Back to Main</string>
+    <string name="healthTitle">Health Tips to Avoid Infection</string>
+    <string name="mainInstructions">Press Scan Nearby to See if YOU are at Risk</string>
+    <string-array name="tips">
+        <item>Wash your hands frequently: Hum a little song for 30 seconds!</item>
+        <item>Maintain a Distance of 6 Feet at all times: This is Social Distancing</item>
+        <item>Wear a face mask: Don\'t have one? Use another sort of mouth cover.</item>
+        <item>Don\'t touch your face</item>
+        <item>See a Doctor if sick</item>
+        <item>Listen to any state guidelines</item>
+        <item>Keep up to date on COVID-19 information</item>
+    </string-array>
+</resources>
